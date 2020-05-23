@@ -1,0 +1,110 @@
+body{
+	width: 100%;
+}
+
+
+
+.footer{
+	padding-top: 60pt;
+	height: 150px;
+	background-color: purple;
+	position: relative;
+}
+.main{
+	width: 100%;
+	height: 600px;
+}
+.left{
+	width: 25%;
+	float: left;
+	background-color: gray;
+	height: 600px;
+	border: 1px solid green;
+
+	
+}
+.middle{
+	width: 50%;
+	float: left;
+	height: 600px;
+	
+	
+}
+.right{
+	width: 24%;
+	float: right;
+	background-color: violet;
+	height: 600px;
+	border: 1px solid green;
+}
+.login{
+	height: 150px;
+	margin: 15pt;
+	padding:15pt;
+	border:1px solid green;
+}
+.text{
+	width: 80%;
+	border-radius: 3pt;
+	margin-top: 5pt;
+	margin-left: 10%;
+	width: 70%;
+	height: 13pt;
+	text-align: center;
+}
+.button{
+	margin-left: 50%;
+	margin-top: 5pt;
+	width: 50pt;
+	height: 20pt;
+	border-radius: 5px;
+}
+.menu-list{
+	margin: 15pt;
+}
+li{
+	margin-left: 15pt;
+}
+.navigation-bar {
+    width: 100%;  /* i'm assuming full width */
+    height: 150pt; /* change it to desired width */
+    background-color: red; /* change to desired color */
+}
+.logo {
+    display: inline-block;
+    vertical-align: top;
+    width: 50px;
+    margin-left: 150pt;
+    height: 50px;
+    margin-right: 20px;
+    margin-top: 60pt;    /* if you want it vertically middle of the navbar. */
+}
+.navigation-bar > a {
+    display: inline-block;
+    margin: 5pt;
+    float: right;
+    margin-top: 60pt;
+    margin-right: 10pt;
+}
+
+.middle-top{
+	height: 100pt;
+	margin: 5pt;
+	padding: 5pt;
+	border: 1pt solid black;
+}
+.middle-middle{
+	height: 80pt;
+	margin: 5pt;
+	padding: 5pt;
+	border: 1pt solid black;
+}
+.middle-bottom{
+height: 60pt;
+	margin: 5pt;
+	padding: 5pt;
+	border: 1pt solid black;
+}
+h1,h4{
+	text-align: center;
+}
